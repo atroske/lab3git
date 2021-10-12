@@ -6,3 +6,5 @@ Name: Ashley Troske
 Major: CSEN
 Year: 2022
 Hobbies: reading, working out, sewing
+
+Fall 21' classes: COEN174, COEN166, RSOC184, COEN 194
