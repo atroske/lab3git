@@ -1,0 +1,8 @@
+aboutMe.txt
+
+My name is ashley, I'm female, my pronouns are she/her. I have brown eyes and brown hair.
+
+Name: Ashley Troske
+Major: CSEN
+Year: 2022
+Hobbies: reading, working out, sewing
